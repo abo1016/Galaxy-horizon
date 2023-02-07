@@ -1,12 +1,12 @@
 {
-    "name": "laravel/horizon",
-    "description": "Dashboard and code-driven configuration for Laravel queues.",
+    "name": "Galaxy/horizon",
+    "description": "changed laravel/horizon view",
     "keywords": ["laravel", "queue"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "Bopop",
+            "email": ""
         }
     ],
     "require": {

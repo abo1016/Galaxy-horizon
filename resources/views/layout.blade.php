@@ -31,7 +31,7 @@
                 </svg>
 
                 <h1 class="h4 mb-0 ml-2">
-                    <strong>Laravel</strong> Horizon{{ config('app.name') ? ' - ' . config('app.name') : '' }}
+                    <strong>Galaxy Oversea</strong> Horizon{{ config('app.name') ? ' - ' . config('app.name') : '' }}
                 </h1>
             </router-link>
 
