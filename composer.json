@@ -1,5 +1,5 @@
 {
-    "name": "laravel/galaxy-horizon",
+    "name": "galaxy/horizon",
     "description": "changed laravel/horizon view",
     "keywords": ["laravel", "queue"],
     "license": "MIT",
